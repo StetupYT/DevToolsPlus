@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of CLI tools for developers",
   "bin": {
-    "env-to-json": "./bin/env-to-json.js",
+    "json-to-env": "./bin/json-to-env.js",
     "license-gen": "./bin/license-gen.js",
     "project-stats": "./bin/project-stats.js"
   },
